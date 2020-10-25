@@ -1,0 +1,6 @@
+pandas
+seaborn
+scikit-learn
+scikit-surprise
+rise
+gensim
