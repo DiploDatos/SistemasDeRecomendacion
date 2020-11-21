@@ -1,3 +1,4 @@
+lightgbm
 pandas
 seaborn
 scikit-learn
